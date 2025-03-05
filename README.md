@@ -10,7 +10,8 @@ Eventually, I wrote a test specification document containing test cases that cov
 ## Content
 1. Requirements review document
 2. Test strategy
-3. Test specification document 
+3. Test specification document
+4. Mock-up link
 
 ### Notice ⚠️
 OpenClassrooms is a French institution. The projects produced as part of their trainings are destined to be evaluated by French examiners.\
